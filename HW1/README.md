@@ -2,9 +2,9 @@
 Professor: Lior Pachter
 TAs: Jerry Wang, Tara Chari, Meichen Fang
 
-This folder contains all homework problem notebooks for HW1.
+This folder contains the problem set and Colab notebooks for HW1.
 
-The slides for the relevatn lectures can be found here: [Lecture 1](https://docs.google.com/presentation/d/1S_NuumJpKFUTCconvxmpZL4cdNu4lBxZCrhoS4xI5TI/edit?usp=sharing) and [Lecture 2](https://docs.google.com/presentation/d/1TwdRvvkz39TbDYtGcYyFn5yNi_maODnsFr_QkIKDj58/edit?usp=sharing).
+The slides for the relevant lectures can be found here: [Lecture 1](https://docs.google.com/presentation/d/1S_NuumJpKFUTCconvxmpZL4cdNu4lBxZCrhoS4xI5TI/edit?usp=sharing) and [Lecture 2](https://docs.google.com/presentation/d/1TwdRvvkz39TbDYtGcYyFn5yNi_maODnsFr_QkIKDj58/edit?usp=sharing).
 
 
 
