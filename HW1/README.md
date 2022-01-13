@@ -1,6 +1,6 @@
 # HW 1 Bi-BE-CS-183-2022
 Professor: Lior Pachter
-TAs: Jerry Wang, Tara Chari, Meichen Fang
+TAs: Tara Chari, Meichen Fang, and Jerry Wang
 
 This folder contains the problem set and Colab notebooks for HW1.
 
