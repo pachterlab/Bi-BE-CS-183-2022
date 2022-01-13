@@ -2,7 +2,7 @@
 Website for the 2021-2022 Caltech class Bi/BE/CS 183: Introduction to Computational Biology and Bioinformatics
 Professor: Lior Pachter
 
-TAs: Jerry Wang, Tara Chari, Meichen Fang
+TAs: Tara Chari, Meichen Fang, and Jerry Wang. 
 
 All materials for each homework assignments are provided in the individual folders. This includes the problem set pdf, Colab notebooks, and links to the relevant Lecture slides.
 
