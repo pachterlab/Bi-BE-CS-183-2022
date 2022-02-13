@@ -4,7 +4,4 @@ Professor: Lior Pachter
 
 TAs: Tara Chari, Meichen Fang, and Jerry Wang. 
 
-All materials for each homework assignments are provided in the individual folders. This includes the problem set pdf, Colab notebooks, and links to the relevant Lecture slides.
-
-
-
+All the materials for each of the homework assignments are provided in the individual folders. This includes the problem set pdf, Colab notebooks, and links to the relevant Lecture slides.
